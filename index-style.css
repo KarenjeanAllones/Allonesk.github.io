@@ -3,7 +3,7 @@ body{background-image: url("PHOTOS/BackGround\ 1.jpg");
     background-size: cover;
 }
 h1{
-    color:yellow;
+    color:black;
     font-size: 100px;
     font-family:Tahoma;
     text-align: center;
@@ -27,18 +27,18 @@ h1{
     text-align: center;
     padding: 12px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 40px;
     line-height: 25px;
-    border-radius: 4px;
-    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    font-family: Arial;
     font-weight: bold;
   }
   
   /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
   .header a.logo {
-    font-size: 25px;
+    font-size: 40px;
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
   }
   
   /* Change the background color on mouse-over */
@@ -57,7 +57,7 @@ h1{
     float: right;
   }
 p{color:blue;
-    font-size: 80px;
+    font-size: 50px;
     font-family:'Arial Narrow Bold',;
     text-align: center
 }
@@ -67,11 +67,11 @@ p{color:blue;
     bottom: 0;
     width: 100%;
     background-color: rgb(153, 245, 125);
-    color: yellow;
+    color: rgb(20, 20, 1);
     text-align: center;
   }
   #context ul{
-    font-size: 35px;
+    font-size: 60px;
     font-family:Arial Narrow Bold;
     text-align: center;
 
